@@ -1,13 +1,8 @@
-class New
+class School
   def initialize(school)
     @school = school
   end
-def grade
-
-end
-def sort
-
+  def school=(school)
+    @school
 end
 
-
-end
