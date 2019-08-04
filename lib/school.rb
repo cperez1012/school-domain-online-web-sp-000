@@ -1,3 +1,4 @@
 class School
-  attr_accessor :new
+  NEW = []
+  
   end
