@@ -1,6 +1,6 @@
 class New
-  def add_student
-
+  def initialize(school)
+    @school = school
   end
 def grade
 
