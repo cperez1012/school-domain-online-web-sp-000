@@ -12,5 +12,6 @@ class School
     if @roster.include?(grade) == false
       @roster[grade]
   end
-
+      @roster[grade]
   end
+end
