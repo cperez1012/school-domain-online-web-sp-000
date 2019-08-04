@@ -1,4 +1,4 @@
 class School
   NEW = []
-  
+
   end
